@@ -22,7 +22,7 @@ The Image Processing System is designed to efficiently handle image data from CS
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/image-processing-system.git
+    git clone https://github.com/mark43adi/Image-processing.git
     cd image-processing-system
     ```
 
