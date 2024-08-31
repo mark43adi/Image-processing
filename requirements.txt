@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+pillow
+requests
+celery
+redis
